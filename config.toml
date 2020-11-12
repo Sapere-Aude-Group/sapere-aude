@@ -1,5 +1,5 @@
 baseurl                  = "https://sapere-aude.group"           # Your domain name
-title                    = "Sapere aude"
+title                    = "敢于认识"
 theme                    = "sam"
 hasCJKLanguage = true  # .WordCount works correctly for chinese
 
@@ -9,12 +9,12 @@ hasCJKLanguage = true  # .WordCount works correctly for chinese
 
 [[params.mainMenu]]
     link = "about"
-    text = "愿景"
-
-[[params.mainMenu]]
-    link = "member"
-    text = "成员"
+    text = "理念"
 
 [[params.mainMenu]]
     link = "read"
     text = "读书"
+
+[[params.mainMenu]]
+    link = "member"
+    text = "成员"
