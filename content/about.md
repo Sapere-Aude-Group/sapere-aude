@@ -1,7 +1,11 @@
 ---
-title: Sapere aude
+title: 敢于认识
 ---
 
-**Sapere aude** is the Latin phrase meaning "Dare to know"; and also is loosely translated as "Dare to be wise", or even more loosely as "Dare to think for yourself!"
+网站名称 [**Sapere aude**](https://en.wikipedia.org/wiki/Sapere_aude) 来自于一句拉丁语格言，可以译为“敢于求知”、“敢于明智”或“敢于独立思考”等。 这句话最初用于罗马诗人霍拉蒂乌斯的书信（公元前20年），后被引用为启蒙运动的座右铭，由伊曼努尔·康德在《回答这个问题：什么是启蒙？》（1784）中引用并逐渐变得知名。这是罗马诗人霍拉蒂乌斯第一卷最初出版的[第二首诗](http://www.thelatinlibrary.com/horace/epist1.shtml)。“Dimidium facti, qui coepit, habet; sapere aude, incipe.”（已经开始的人已经完成了一半的工作；敢于聪明，然后开始。）
 
-Originally used in the First Book of Letters (20 BCE), by the Roman poet Horace, the phrase Sapere aude became associated with the Age of Enlightenment, during the 17th and 18th centuries, after Immanuel Kant used it in the essay, "Answering the Question: What Is Enlightenment?" (1784)
+把这句话借用过来，我希望现在和将来的你：
+
+#### **有勇气了解世界的真相，有行动成为独立思考的人**。
+
+<!-- #### **有勇气了解世界的事实和真相，有行动成为智慧和独立思考的人**。-->
