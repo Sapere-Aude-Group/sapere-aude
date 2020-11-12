@@ -1,7 +1,9 @@
 {{ define "section_content" }}
 <div class="flex-container">
     <aside role="complementary">
+        {{ if .Params.showDate }}
         {{ .Params.author }} &#183; {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006") }} &#183; 共 {{ .WordCount }} 字
+        {{ end }}
         <div class="tag-container">
             {{ range $term := .Params.tags }}
             {{ with $.Site.GetPage (printf "/%s/%s" "tags" $term | urlize) }}
