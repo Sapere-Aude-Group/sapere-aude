@@ -9,7 +9,7 @@ hasCJKLanguage = true  # .WordCount works correctly for chinese
 
 [[params.mainMenu]]
     link = "about"
-    text = "理念"
+    text = "期望"
 
 [[params.mainMenu]]
     link = "read"
