@@ -1,0 +1,25 @@
+baseurl                  = "https://sapere-aude.group"           # Your domain name
+title                    = "Sapere aude"
+theme                    = "sam"
+
+[params]
+    dateform             = "2006/01/02"
+    homepage             = "首页"                           # What to call the home page link
+
+[[params.videoBackground.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    link = "read"
+    text = "读书报告"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "简介"
+
+[imaging]
+    quality = 75
