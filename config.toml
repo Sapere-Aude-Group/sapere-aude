@@ -1,6 +1,7 @@
 baseurl                  = "https://sapere-aude.group"           # Your domain name
 title                    = "Sapere aude"
 theme                    = "sam"
+hasCJKLanguage = true  # .WordCount works correctly for chinese
 
 [params]
     dateform             = "2006/01/02"
