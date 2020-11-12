@@ -1,5 +1,5 @@
 baseurl                  = "https://sapere-aude.group"           # Your domain name
-title                    = "敢于认识"
+title                    = "勇于认识"
 theme                    = "sam"
 hasCJKLanguage = true  # .WordCount works correctly for chinese
 
