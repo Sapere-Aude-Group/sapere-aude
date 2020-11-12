@@ -14,12 +14,12 @@ theme                    = "sam"
     overlay = "rgba(0, 0, 0, 0.4)" # optional
 
 [[params.mainMenu]]
-    link = "read"
-    text = "读书报告"
-
-[[params.mainMenu]]
     link = "about"
     text = "简介"
+
+[[params.mainMenu]]
+    link = "read"
+    text = "读书报告"
 
 [imaging]
     quality = 75
