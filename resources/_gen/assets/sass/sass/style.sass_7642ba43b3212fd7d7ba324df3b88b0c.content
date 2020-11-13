@@ -6,12 +6,12 @@
 
 html {
   background-color: #39424E;
-  font-family: "Didact Gothic", "sans serif";
+  font-family: "Optima", "Didact Gothic", "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", "Microsoft YaHei", "sans serif";
   font-size: 16px; }
 
 body {
   font-size: 16px;
-  font-family: "Didact Gothic", "sans serif";
+  font-family: "Optima", "Didact Gothic", "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", "Microsoft YaHei", "sans serif";
   color: #fff;
   line-height: 2rem;
   letter-spacing: 1.5px;
@@ -108,7 +108,7 @@ nav {
   position: relative;
   bottom: 0;
   padding: 1rem;
-  font-family: "Didact Gothic", "sans serif";
+  font-family: "Optima", "Didact Gothic", "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", "Microsoft YaHei", "sans serif";
   font-size: 1rem;
   line-height: 1em;
   opacity: 0.8; }
@@ -120,7 +120,7 @@ nav {
   min-height: calc(100vh - 6em); }
 
 .big-link {
-  font-family: "Didact Gothic", "sans serif";
+  font-family: "Optima", "Didact Gothic", "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", "Microsoft YaHei", "sans serif";
   font-size: 3rem;
   font-weight: 300;
   margin-bottom: 2rem;
@@ -128,7 +128,7 @@ nav {
 
 #title {
   margin-top: 3rem;
-  font-family: "Didact Gothic", "sans serif";
+  font-family: "Optima", "Didact Gothic", "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", "Microsoft YaHei", "sans serif";
   font-size: 2rem;
   line-height: 3rem;
   margin-bottom: 2rem; }
