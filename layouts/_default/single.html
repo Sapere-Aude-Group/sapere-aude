@@ -18,6 +18,10 @@
     </aside>
     <hr />
     <article role="article">
+        {{if .Params.showTOC}}
+        {{.TableOfContents }}
+        <hr />
+        {{ end }}
         {{ .Content }}
     </article>
 </div>
