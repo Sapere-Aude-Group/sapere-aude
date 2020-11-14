@@ -1,15 +1,16 @@
-baseurl                  = "https://sapere-aude.group"           # Your domain name
-title                    = "勇于认识"
-theme                    = "sam"
+baseurl        = "https://sapere-aude.group"           # Your domain name
+title          = "勇于认识"
+theme          = "sam"
 hasCJKLanguage = true  # .WordCount works correctly for chinese
+disablePathToLower = true
 
 [params]
-    dateform             = "2006/01/02"
-    homepage             = "首页"                           # What to call the home page link
+    dateform   = "2006/01/02"
+    homepage   = "首页"                           # What to call the home page link
 
 [[params.mainMenu]]
-    link = "about"
-    text = "愿景"
+    link = "read/_introduction/2020-09-01-ZLK1"
+    text = "要求"
 
 [[params.mainMenu]]
     link = "read"
@@ -18,3 +19,7 @@ hasCJKLanguage = true  # .WordCount works correctly for chinese
 [[params.mainMenu]]
     link = "member"
     text = "组员"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "愿景"
