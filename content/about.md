@@ -2,7 +2,7 @@
 title: 愿景
 ---
 
-网站名称 [**Sapere aude**](https://en.wikipedia.org/wiki/Sapere_aude) 来自于一句拉丁语格言，可以译为“敢于求知”、“敢于明智”或“敢于独立思考”等。 这句话最初用于罗马诗人霍拉蒂乌斯的书信（公元前20年），后被引用为启蒙运动的座右铭，由伊曼努尔·康德在《回答这个问题：什么是启蒙？》（1784）中引用并逐渐变得知名。这是罗马诗人霍拉蒂乌斯第一卷最初出版的[第二首诗](http://www.thelatinlibrary.com/horace/epist1.shtml)：
+网站名称 [**Sapere Aude**](https://en.wikipedia.org/wiki/Sapere_aude) 来自于一句拉丁语格言，可以译为“敢于求知”、“敢于明智”或“敢于独立思考”等。这句话最初来源于古罗马诗人霍拉蒂乌斯（公元前20年），后因康德在《什么是启蒙？》(1784）中的引用成为启蒙运动的座右铭。其最初来源于古罗马诗人霍拉蒂乌斯《第一书信集》的[第二首诗](http://www.thelatinlibrary.com/horace/epist1.shtml)：
 
 *Dimidium facti, qui coepit, habet; sapere aude, incipe.* \
 *已经开始的人已经完成了一半的工作；敢于聪明，然后开始。*
