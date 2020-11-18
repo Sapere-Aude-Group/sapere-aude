@@ -7,6 +7,7 @@ disablePathToLower = true
 [params]
     dateform   = "2006/01/02"
     homepage   = "首页"                           # What to call the home page link
+    githubContentURL   = "https://github.com/likanzhan/sapere-aude/edit/main/content/"
 
 [[params.mainMenu]]
     link = "read/_introduction/2020-09-01-ZLK1"

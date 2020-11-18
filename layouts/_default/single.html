@@ -2,7 +2,10 @@
 <div class="flex-container">
     <aside role="complementary">
         {{ if .Params.showDate }}
-        {{ .Params.author }} &#183; {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006") }} &#183; 共 {{ .WordCount }} 字
+        {{ .Params.author }} &#183;
+        {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006") }} &#183;
+        共 {{ .WordCount }} 字  &#183;
+        <a href="{{ .Site.Params.githubContentURL }}{{ .File.Path }}" > 修改 </a>
         {{ end }}
         <div class="tag-container">
             {{ range $term := .Params.tags }}
