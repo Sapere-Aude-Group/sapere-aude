@@ -8,20 +8,23 @@ disablePathToLower = true
     dateform   = "2006/01/02"
     homepage   = "首页"                           # What to call the home page link
     githubContentURL   = "https://github.com/likanzhan/sapere-aude/edit/main/content/"
-    footerText = "Sapere aude!"
-
-[[params.mainMenu]]
-    link = "read/_introduction/2020-09-01-ZLK1"
-    text = "要求"
-
-[[params.mainMenu]]
-    link = "read"
-    text = "读书"
-
-[[params.mainMenu]]
-    link = "member"
-    text = "组员"
 
 [[params.mainMenu]]
     link = "about"
     text = "愿景"
+
+[[params.mainMenu]]
+    link = "read/_introduction/read-tips"
+    text = "要求"
+
+[[params.mainMenu]]
+    link = "read"
+    text = "阅读"
+
+[[params.mainMenu]]
+    link = "research"
+    text = "研究"
+
+[[params.mainMenu]]
+    link = "member"
+    text = "组员"
