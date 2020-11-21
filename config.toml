@@ -28,3 +28,9 @@ disablePathToLower = true
 [[params.mainMenu]]
     link = "member"
     text = "组员"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 1
