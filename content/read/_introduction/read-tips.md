@@ -85,8 +85,10 @@ showTOC: true  #是否在在文章开头添加目录？
 
 (3) 支持资料：
 
-- 在正文中添加原始论文链接：`[论文原文](../Source_Files/2020-10-26-ZLK1.pdf)`
-- 在正文中使用支持资料：`![图1](../Supporting_Information/2020-10-26-ZLK1-Fig1.png)`
+- 在正文中添加原始论文链接：\
+    `[论文原文](../Source_Files/2020-10-26-ZLK1.pdf)`
+- 在正文中使用支持资料：\
+    `![图1](../Supporting_Information/2020-10-26-ZLK1-Fig1.png)`
 
 (4) 请参看一个仅供参考的[例子](../2020-10-26-ZLK1)。
 
