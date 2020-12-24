@@ -1,6 +1,6 @@
 ---
 title: "The neurobiological basis of the interpretation of disjunctive connectives"
-date: 2020-09-01
+date: 2020-12-24
 showDate: true
 showTOC: true
 ---
