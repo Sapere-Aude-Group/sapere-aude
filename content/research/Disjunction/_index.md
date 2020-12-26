@@ -1,5 +1,5 @@
 ---
-title: "The neurobiological basis of the interpretation of disjunctive connectives"
+title: "Neurobiology of Disjunctions"
 date: 2020-12-24
 ---
 
