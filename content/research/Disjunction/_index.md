@@ -1,5 +1,5 @@
 ---
-title: "Neurobiology of Disjunctions"
+title: "析取连接词理解的神经生理基础"
 date: 2020-12-24
 ---
 
