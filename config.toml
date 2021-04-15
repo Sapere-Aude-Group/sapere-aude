@@ -22,8 +22,8 @@ disablePathToLower = true
     text = "阅读"
 
 [[params.mainMenu]]
-    link = "research"
-    text = "研究"
+    link = "projects"
+    text = "项目"
 
 [[params.mainMenu]]
     link = "member"
