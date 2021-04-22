@@ -3,6 +3,10 @@ title: "内隐心理理论的内在机制研究"
 date: 2020-09-01
 ---
 
+# 2021-04-19 号效果
+
+![](2021-04-19-Pig-P+A+.mp4)
+
 # 需要改进
 
 - 原初发表在Science上的文章：[文档链接](https://science.sciencemag.org/content/sci/suppl/2010/12/20/330.6012.1830.DC1/Kovacs_SOM.pdf)
