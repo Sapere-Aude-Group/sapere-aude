@@ -1,8 +1,8 @@
 ---
-title: "项目组目前开展的课题"
+title: "研究课题"
 ---
 
-目前项目组正在进行的项目有下面一些：
+# 项目组正在开展的项目
 
 - 析取连接词理解的神经生理基础
 
@@ -16,7 +16,12 @@ title: "项目组目前开展的课题"
 
 - 想象和观察的神经生理基础
 
+# 项目组可能会开展的项目
 
-详细信息或合作请联系
+- 量子认知 (Quantum Cognition)
 
-zhanlikan@blcu.edu.cn
+- 预测性加工 (Predictive Processing)
+
+
+> 详细信息或合作请联系
+> zhanlikan@blcu.edu.cn
