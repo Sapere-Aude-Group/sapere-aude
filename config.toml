@@ -11,7 +11,7 @@ disablePathToLower = true
 
 [[params.mainMenu]]
     link = "about"
-    text = "愿景"
+    text = "寄语"
 
 [[params.mainMenu]]
     link = "read/_introduction/read-tips"
