@@ -2,6 +2,8 @@
 title: 萨佩雷·奥德
 ---
 
+致已经或有意成为小组成员的你：
+
 “萨佩雷·奥德” ([Sapere Aude](https://en.wikipedia.org/wiki/Sapere_aude)) 是一句拉丁语格言，可译为“敢于求知”（Dare to know）、“敢于明智”（Dare to be wise）或“敢于独立思考”（Dare to think for yourself）等。该格言最早出自古罗马诗人霍拉蒂乌斯（Horatius）《第一书信集》[第二首诗](http://www.thelatinlibrary.com/horace/epist1.shtml) 的第四十行：
 
 *Dimidium facti, qui coepit, habet; sapere aude, incipe.* \
@@ -19,4 +21,4 @@ title: 萨佩雷·奥德
 有一句俗话说的好 “有状元徒弟，没有状元师傅”。
 -->
 
--- 战立侃
+------ 战立侃，二零二零年五月八日
