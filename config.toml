@@ -23,11 +23,11 @@ disablePathToLower = true
 
 [[params.mainMenu]]
     link = "projects"
-    text = "项目"
+    text = "课题"
 
 [[params.mainMenu]]
     link = "member"
-    text = "组员"
+    text = "成员"
 
 [markup]
   [markup.tableOfContents]
