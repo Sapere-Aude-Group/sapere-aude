@@ -3,6 +3,12 @@ title: "否定、视角和心理理论研究"
 date: 2020-09-01
 ---
 
+# 2021-05-13 实验设计
+
+![](2021-05-13-Experiment-Design.png)
+
+- [原始Excel表](Negation_Design.xlsx)
+
 # 2021-05-11 版本
 
 - 修改要求
