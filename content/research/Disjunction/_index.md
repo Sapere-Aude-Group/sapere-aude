@@ -3,6 +3,20 @@ title: "析取连接词理解的神经生理基础"
 date: 2020-12-24
 ---
 
+# 2021.5.15 更新
+
+## Materials and Design:
+
+Speech synthesizer: iFlytek . Speed of sentences is 30. Pause: No pause or Insert a 200ms pause between connective and "N3".
+
+Stimuli number: 180 sentences x 2 pause condition（no pause vs 200ms）x 2 Sentential connectives(disjunction vs conjunction)=720 stimuli.
+
+720 stimuli will be divided into 4 participant groups. Each participant will hear 180 stimuli and they can't listen both disjunctive version and conjunctive version with the same items.(i.e. if one have listened "张三吃掉了苹果和香蕉。"，then he/she can't listen to the disjunctive version of this sentence"张三吃掉了苹果或香蕉。").
+
+The 180 stimuli will be divied into 4 blocks so that the trials from same condition will not repeat many times. Each block contains 45 trials (11 trials * 4 condition , plus 1 more trial which is different condition for different block.)
+
+[Excel](../Supporting_Information/2021-05-15-trials.xlsx)
+
 ## 1. Project Introduction
 
 Suppose two simple propositions _A_ and _B_:
