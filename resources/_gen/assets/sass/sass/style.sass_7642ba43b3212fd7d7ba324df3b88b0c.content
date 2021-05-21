@@ -10,7 +10,7 @@ html {
   font-size: 16px; }
 
 body {
-  font-size: 16px;
+  font-size: 15px;
   font-family: "Gill Sans", "Optima", "Didact Gothic", "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", "Microsoft YaHei", "sans serif";
   color: #fff;
   line-height: 2rem;
