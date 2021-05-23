@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {{ partial "head.html" . }}
+    <title>{{ .Title | markdownify }}</title>
+</head>
+
+<body>
+    <nav role="navigation" class="flex-container" id="splash">
+{{ .Content }}
+    </nav>
+</body>
+
+<footer>
+<nav role="navigation" class="flex-container bottom-menu">
+    {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}
+</nav>
+</footer>
+
+</html>
