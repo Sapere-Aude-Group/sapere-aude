@@ -38,7 +38,7 @@ showTOC: true
 
     - 狗“移动”条件，狗向左旋转45度，然后再反方向向右旋转45度（24桢），即回到原初位置。
 
-- 附表：[实验控制附表](ITOM_Design.xlsx)
+- 附表：[实验控制附表](../Supporting_Information/ITOM_Design.xlsx)
 
 # 2021-04-27 号
 
