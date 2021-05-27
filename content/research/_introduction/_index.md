@@ -10,3 +10,6 @@ date: 2020-12-26
 - [Why seek a single mentor when you can have three — or more](https://www.nature.com/articles/d41586-020-03339-5)
 
 - [Good presentation skills benefit careers — and science](https://www.nature.com/articles/d41586-021-01281-8?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nature%2Frss%2Fcurrent+%28Nature+-+Issue%29)
+
+- [The Value of Undergraduate Training in Psychological Science](https://www.psychologicalscience.org/observer/the-value-of-undergraduate-training-in-psychological-science)
+
