@@ -70,8 +70,9 @@ showTOC: true
 - 目前效果
 
     - 练习视频
+![](../Supporting_Information/V5-2021-05-21-Familiarization.mp4)
     - 测试视频
-![](../Supporting_Information/V5-2021-05-21.mp4)
+![](../Supporting_Information/V5-2021-05-21-Test.mp4)
 
 
 ## 2021-05-11 修改要求

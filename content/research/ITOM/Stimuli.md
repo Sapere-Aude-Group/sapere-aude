@@ -6,7 +6,7 @@ showTOC: true
 
 # 2021-05-27, 实验设计
 
-![](../Supporting_Information/ExperimentControl.pdf)
+![](../Supporting_Information/Experiment_Control_Time.pdf)
 
 - 红色时间线为小球，蓝色时间线为狗
 
@@ -30,7 +30,7 @@ showTOC: true
 
 - 具体的实验控制及其预期长度 (5-27 更新)
 
-![](../Supporting_Information/ExperimentControl.png)
+![](../Supporting_Information/Experiment_Control_Excel.png)
 
 - 球的第一次变化
 
