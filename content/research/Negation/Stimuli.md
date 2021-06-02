@@ -3,7 +3,7 @@ title: "材料准备"
 date: 2021-01-01
 showTOC: true
 ---
-## 当前视频效果和实验设计更正
+## 2021-06-02 当前视频效果和实验设计更正
 
 -练习视频
 ![](../Supporting_Information/V5-2021-06-02-Familiarization.mp4)
