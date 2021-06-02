@@ -3,6 +3,17 @@ title: "材料准备"
 date: 2021-01-01
 showTOC: true
 ---
+## 当前视频效果和实验设计更正
+
+-练习视频
+![](../Supporting_Information/V5-2021-06-02-Familiarization.mp4)
+
+-实验设计
+
+![](../Supporting_Information/2021-06-02-Experiment-Design1.png)
+![](../Supporting_Information/2021-06-02-Experiment-Design2.png)
+
+
 ## 2021-05-27 实验材料详细说明
 
 -学习视频
