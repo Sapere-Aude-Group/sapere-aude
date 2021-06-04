@@ -89,7 +89,7 @@ showTOC: true  #是否在在文章开头添加目录？
 - 其他任何你觉得有必要说的信息。
 - 报告中用到的其他参考文献。正文中提到参考文献，请遵循以下 APA 格式：
 
-![图1](../Supporting_Information/Table-8.1-Basic In-Text Citation Styles.png)
+![图1](../Source_Files/Table-8-1-Basic-In-Text-Citation-Styles.png)
 
 (3) 支持资料：
 
