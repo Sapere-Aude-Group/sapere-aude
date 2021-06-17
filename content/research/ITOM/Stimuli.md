@@ -1,12 +1,23 @@
 ---
-title: "材料准备"
+title: "Stimuli"
 date: 2020-09-01
 showTOC: true
 ---
 
-# 2021-06-03
+# 2021-06-17
 
-![](../Supporting_Information/Example-P-A-3.mov)
+- 效果
+
+![](../Supporting_Information/dog_V1_03.mov)
+
+![](../Supporting_Information/dog_V2_03.mov)
+
+![](../Supporting_Information/dog_V3_03.mov)
+
+- 时间线
+
+![](../Supporting_Information/TimeLine03.pdf)
+
 
 # 2021-05-27, 实验设计
 
