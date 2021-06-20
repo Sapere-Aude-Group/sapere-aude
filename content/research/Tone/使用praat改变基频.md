@@ -5,7 +5,7 @@ date: 2021-06-20
 showDate: true
 showTOC: true
 ---
-# 1.用讯飞合成的1声的书（shu）
+# 1.用讯飞合成的1声的“书”（shu）
 ![图1](../Supporting_Information/2021-06-20-XXM1-Fig-1.png)
 
 通过F0曲线可以看出，即使是1声的刺激，其F0也有些弯曲。
