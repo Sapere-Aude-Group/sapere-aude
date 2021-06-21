@@ -1,5 +1,5 @@
 ---
-title: "材料准备"
+title: "Stimuli"
 date: 2021-01-01
 showTOC: true
 ---
@@ -66,11 +66,11 @@ showTOC: true
 
 ## 2021-05-13 目前效果及实验设计
 
-- 实验设计
+- 实验设计 (2021-06-21 更新)
 
-![](../Supporting_Information/2021-05-13-Experiment-Design.png)
+![](../Supporting_Information/Stimuli_Full_List.png)
 
-- [原始Excel表](../Supporting_Information/Negation_Design.xlsx)
+- [原始Excel表 (2021-06-21 更新)](../Supporting_Information/Negation_Design.xlsx)
 
 - 目前效果
 
