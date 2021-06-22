@@ -4,6 +4,18 @@ date: 2020-09-01
 showTOC: true
 ---
 
+# 2021-06-22
+The timeline of all conditions have been uploaded, we've done three videos about P-A- condition.
+
+- timeline
+- ![](../Supporting_Information/TimeLine.pdf)
+
+-videos
+![](../Supporting_Information/dog_V1_04.mov)
+
+![](../Supporting_Information/dog_V2_04.mov)
+
+![](../Supporting_Information/dog_V3_04.mov)
 # 2021-06-17
 
 - 效果
