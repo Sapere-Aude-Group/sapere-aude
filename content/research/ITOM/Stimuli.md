@@ -8,32 +8,32 @@ showTOC: true
 The timeline of all conditions have been uploaded, we've done three videos about P-A- condition.
 
 - timeline
-- ![](../Supporting_Information/TimeLine.pdf)
+- ![时间线](../Supporting_Information/TimeLine.pdf)
 
 -videos
-![](../Supporting_Information/dog_V1_04.mov)
+![视频01](../Supporting_Information/dog_V1_04.mov)
 
-![](../Supporting_Information/dog_V2_04.mov)
+![视频02](../Supporting_Information/dog_V2_04.mov)
 
-![](../Supporting_Information/dog_V3_04.mov)
+![视频03](../Supporting_Information/dog_V3_04.mov)
 # 2021-06-17
 
 - 效果
 
-![](../Supporting_Information/dog_V1_03.mov)
+![视频V1](../Supporting_Information/dog_V1_03.mov)
 
-![](../Supporting_Information/dog_V2_03.mov)
+![视频V2](../Supporting_Information/dog_V2_03.mov)
 
-![](../Supporting_Information/dog_V3_03.mov)
+![视频V3](../Supporting_Information/dog_V3_03.mov)
 
 - 时间线
 
-![](../Supporting_Information/TimeLine03.pdf)
+![时间线03](../Supporting_Information/TimeLine03.pdf)
 
 
 # 2021-05-27, 实验设计
 
-![](../Supporting_Information/Experiment_Control_Time.pdf)
+![控制条件](../Supporting_Information/Experiment_Control_Time.pdf)
 
 - 红色时间线为小球，蓝色时间线为狗
 
@@ -53,11 +53,11 @@ The timeline of all conditions have been uploaded, we've done three videos about
 
 - 设计的实验流程及长度
 
-![](../Supporting_Information/TimeLine.png)
+![时间线图片](../Supporting_Information/TimeLine.png)
 
 - 具体的实验控制及其预期长度 (5-27 更新)
 
-![](../Supporting_Information/Experiment_Control_Excel.png)
+![试验控制表格](../Supporting_Information/Experiment_Control_Excel.png)
 
 - 球的第一次变化
 
