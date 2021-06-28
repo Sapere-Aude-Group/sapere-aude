@@ -1,4 +1,4 @@
 ---
-title: "否定、视角和心理理论研究"
+title: "Negation Without Language"
 date: 2020-09-01
 ---

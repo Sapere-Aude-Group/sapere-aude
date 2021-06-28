@@ -4,6 +4,20 @@ date: 2021-06-21
 showTOC: true
 ---
 
+## Experiment Design: Objects to Trials
+
+- Given any 6 objects, satisfying "Object 1 > Object 2 > ... > Object 6", where "A > B" means "Agent prefers A to B", we can build 3 + 3 (the latter 3 were simply the mirror of the previous ones) trials for each experiment:
+
+!! Note: Further consideration was needed to determine the necessity of the mirror trials, i.e., whether it is necessary to counterbalance the agent's choices.
+
+![](../Supporting_Information/Objects-2-Design.png)
+
+- Suppose we have 15 objects, then 15 groups of objects can then be built:
+
+![](../Supporting_Information/Objects-2-Trials.png)
+
+!! So the object should be different, i.e., should be not of the same type.
+
 ## Experiment 1: Pilot
 
 ![](../Supporting_Information/Experiment_1.png)
@@ -21,13 +35,14 @@ To be specific, if participants have a implicit "negation", then the object cont
 
 In experiment 2, the two boxes were both transparent from the perspective of participants. This gives us a chance to explore how participants' responses were affected by the agent's perspective. If participants can take into the account of the agents' perspective, then there will be a significant difference between the three conditions. To be specific, the rank of object in the right box would be: 08 (Negation) < 16 (Preference) < 04 (Pure Guess).
 
-## Experiment 3
+## Experiment 3 (06-28 Update)
 
-![](../Supporting_Information/Experiment_3.png)
+![](../Supporting_Information/Experiment_3_06_28_Update.png)
+[~~OldVersion~~](../Supporting_Information/Experiment_3.png)
 
 - Note: Supposing the agent's choice was always the LEFT box.
 
-12 (Negation) < 07 = 02 (Preference) < 10 (Guess)
+12 (Negation) < 07 ~~= 02~~ (Preference) < 10 (Guess)
 
 Taken together, when they were asked to report the perception of another person from the perspective differing from their own, if participants could suppress the perception from their own perspective, then their responses would be similar in trials 11, 04, and 10.
 
