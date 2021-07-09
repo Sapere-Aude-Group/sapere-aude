@@ -1,4 +1,4 @@
 ---
-title: "情绪识别研究"
-date: 2019-09-01
+title: "Emotion and Facial Expression"
+date: 2020-09-01
 ---

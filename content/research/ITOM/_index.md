@@ -1,4 +1,4 @@
 ---
-title: "内隐心理理论的内在机制研究"
+title: "Implicit Theory of Mind"
 date: 2020-09-01
 ---

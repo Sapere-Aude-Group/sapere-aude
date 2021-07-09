@@ -1,4 +1,4 @@
 ---
-title: "想象和观察的神经生理基础研究"
-date: 2018-09-01
+title: "Imagination"
+date: 2020-09-01
 ---
