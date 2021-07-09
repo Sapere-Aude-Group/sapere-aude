@@ -5,6 +5,7 @@ showTOC: true
 ---
 
 # 2021-07-07 最终效果
+
 ![P-A-条件1](../Supporting_Information/dog_P-A-_C1.mov)
 
 ![P-A-条件2](../Supporting_Information/dog_P-A-_C2.mov)
@@ -25,23 +26,8 @@ showTOC: true
 The timeline of all conditions have been uploaded, we've done three videos about P-A- condition.
 
 - timeline
-- ![时间线](../Supporting_Information/TimeLine.pdf)
 
--videos
-![视频01](../Supporting_Information/dog_V1_04.mov)
-
-![视频02](../Supporting_Information/dog_V2_04.mov)
-
-![视频03](../Supporting_Information/dog_V3_04.mov)
-# 2021-06-17
-
-- 效果
-
-![视频V1](../Supporting_Information/dog_V1_03.mov)
-
-![视频V2](../Supporting_Information/dog_V2_03.mov)
-
-![视频V3](../Supporting_Information/dog_V3_03.mov)
+![时间线](../Supporting_Information/TimeLine.pdf)
 
 - 时间线
 
