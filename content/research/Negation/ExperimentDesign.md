@@ -3,6 +3,18 @@ title: "Experiment Design"
 date: 2021-06-21
 showTOC: true
 ---
+## Name and sequence number of objects
+![object1_14](../Supporting_Information/object1_14.png)
+
+![object15_27](../Supporting_Information/object15_27.png)
+
+![object28_42](../Supporting_Information/object28_42.png)
+
+## Groups of boxes and objects
+[box_object](../Source_Files/E1_boxcolor_object.Pdf)
+
+## Object preference ordering
+[sequence](../Source_Files/S_object_left_right.Pdf)
 
 ## Experiment Design: Objects to Trials
 
