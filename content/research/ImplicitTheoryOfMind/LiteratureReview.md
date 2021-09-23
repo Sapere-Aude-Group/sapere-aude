@@ -2,8 +2,6 @@
 title: Mentalizing or Submentalizing? A replication of Kovács et al.(2010) with extensions
 ---
 
-## 1、introduction
-
 Theory of mind, especially the performance as being measured by the "false-belief task" (Premack & Woodruff, 1978), is traditionally regarded as an advanced ability that is unique to human older than 4 years old (REF). Non-human primates and human children younger than 3 years' old lack such ability. New experimental techniques, however, tell a different story. Different theories have been put forward to explain this discrepancy. This paper intends to adjudicate between these theories with the paradigm pioneered by Kovács et al. (2010).
 
 Theory of Mind (ToM) is an important social cognitive ability of individuals，which has significant meanings to human interpersonal communication and our social life. The traditional view is that the ToM refers that human can understand the mental state of oneself and others (such as needs, beliefs, desires, intentions, feelings, knowledge, emotions, etc.) (Premack & Woodruff, 1978). 
