@@ -2,7 +2,19 @@
 title: Mentalizing or Submentalizing? A replication of Kovács et al.(2010) with extensions
 ---
 
-Theory of mind, especially the performance as being measured by the "false-belief task" (Premack & Woodruff, 1978), is traditionally regarded as an advanced ability that is unique to human older than 4 years old (REF). Non-human primates and human children younger than 3 years lack such ability. New experimental techniques, however, tell a different story. Different theories have been put forward to explain this discrepancy. This paper intends to adjudicate between these theories with the paradigm pioneered by Kovács et al. (2010).
+Theory mind, or mind reading, refers participants' ability to infer others' mental states. Mental states cannot be directly observed, so they have to be indirectly inferred. Theory of mind, especially the performance as being measured by the "false-belief task" (Premack & Woodruff, 1978), is traditionally regarded as an advanced ability that is unique to human older than 4 years old (REF). Non-human primates and human children younger than 3 years lack such ability. New experimental techniques, however, tell a different story. Different theories have been put forward to explain this discrepancy. This paper intends to adjudicate between these theories with the paradigm pioneered by Kovács et al. (2010).
+
+A typical false-belief task involves two agents such as Anne and Lilly, two containers such as a box and a basket, and an object such as a marble. First, when Lilly was still in the room Anne put the marble into the box. Second, after Anne left the room Lilly moved the marble from the box into the basket. Finally, Anne returned to the room and participants were asked to determine where Anne would go to look for her marble. Given this experimental setting, Anne's belief about the location of the marble was different from the actual location of the mable, or more precisely participants' belief about the location of the marble, i.e., Anne's has a false-belief about the location of the marble.If they understand this difference and know that an agent's behavior is guided by the agent's own belief, rather than by others' belief or the reality, participants answer would be the box. If participants' answer was the basket, it would suggest that participants could not attribute to other agent a belief that is different from their own.
+
+
+Using this traditionally called explicit false-belief task, it was found that children younger than 4 years-old normally lack such ability (Callaghan et al., 2005; Liu, Wellman, Tardif, & Sabbagh, 2008; Perner, Leekam, & Wimmer, 1987; Wellman, Cross, & Watson, 2001; Wellman, Fang, Liu, Zhu, & Liu, 2006; Wimmer & Perner, 1983).
+
+
+This is not the end of the story, however. This general conclusion that children younger than 4 years' old and non-human primates lack mental reading ability have recently challenged by several newly developed experimental paradigms.
+
+One such paradigm was developed by Kovacs et al (2010).
+
+
 
 Theory of Mind (ToM) is an important social cognitive ability of individuals，which has significant meanings to human interpersonal communication and our social life. The traditional view is that the ToM refers that human can understand the mental state of oneself and others (such as needs, beliefs, desires, intentions, feelings, knowledge, emotions, etc.) (Premack & Woodruff, 1978). 
 
