@@ -11,8 +11,6 @@ New experimental techniques, however, tell a different story:
 
 
 
-
-
 - Heyes, C. (2014). False belief in infancy: A fresh look. *Developmental Science, 17*(5), 647-659. https://doi.org/10.1111/desc.12148
 [文献原文](../Source_Files/Heyes_2014_Fresh_Look.pdf)
 
