@@ -1,6 +1,6 @@
 baseurl        = "https://sapere-aude.group"           # Your domain name
 title          = "敢于求知"
-theme          = "github.com/victoriadrake/hugo-theme-sam"
+theme          = "sam"
 hasCJKLanguage = true  # .WordCount works correctly for chinese
 disablePathToLower = true
 
