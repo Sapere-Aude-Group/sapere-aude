@@ -33,7 +33,7 @@ showTOC: true
 ### 5. 下载文献和电子书
 
 - 本周要报告的两篇文献可以通过文献浏览或文献检索其中一种方式确定。
-- 文献确定后，用文献的 DOI 或题目到全文下载工具中下载文献全文，如 [http://sci-hub.se](http://sci-hub.se) 或 [http://sci-hub.tw](http://sci-hub.tw)
+- 文献确定后，用文献的 DOI 或题目到全文下载工具中下载文献全文，如 [http://sci-hub.se](http://sci-hub.se) 或 [https://sci-hub.st](https://sci-hub.st)
 - 其他常见电子书可以从 [http://libgen.is](http://libgen.is) 搜索和下载。
 
 ### 6. 准备和提交相关材料
