@@ -43,18 +43,15 @@ showTOC: true
 
 ```bash
 _introduction
-├── 2020-09-01-ZLK1.md
-├── 2020-10-26-ZLK1.md
 ├── Source_Files
-│   └── 2020-10-26-ZLK1.pdf
+│   └── APA7th.pdf
 ├── Supporting_Information
-│   ├── 2020-10-26-ZLK1-Fig1.png
-│   ├── 2020-10-26-ZLK1-Fig2.png
-│   ├── 2020-10-26-ZLK1-Fig3.png
-│   ├── 2020-10-26-ZLK1-Fig4.png
-│   └── 2020-10-26-ZLK1-Fig5.png
-└── _index.md
+│   └── Table-8-1-Basic-In-Text-Citation-Styles.png
+├── _index.md
+└── read-tips.md
 ```
+
+- 注意：`_introduction` 文件夹下，除去帖子 `read-tips.md` 的命名格式没有遵循上述标准，其他方面均是按上述标准确定的。
 
 ### 6. 撰写读书报告
 
@@ -83,14 +80,14 @@ showTOC: true  #是否在在文章开头添加目录？
 - 其他任何你觉得有必要说的信息。
 - 报告中用到的其他参考文献。正文中提到参考文献，请遵循以下 APA 格式：
 
-![图1](../Source_Files/Table-8-1-Basic-In-Text-Citation-Styles.png)
+![图1](../Supporting_Information/Table-8-1-Basic-In-Text-Citation-Styles.png)
 
 (3) 支持资料：
 
 - 在正文中添加原始论文链接：\
-    `[论文原文](../Source_Files/2020-10-26-ZLK1.pdf)`
+    `[论文原文](../Source_Files/APA7th.pdf)`
 - 在正文中使用支持资料：\
-    `![图1](../Supporting_Information/2020-10-26-ZLK1-Fig1.png)`
+    `![APA7th](../Supporting_Information/Table-8-1-Basic-In-Text-Citation-Styles.png)`
 
 ### 7. 报告和聆听读书报告
 
