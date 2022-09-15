@@ -39,7 +39,8 @@ showTOC: true
 - 支持资料（没有用到支持材料可以不上传）：如果你的读书报告包含了一些图片和表格，那么这些表格也应该遵循类似的逻辑，例如上述这篇文章的第一幅图就可以命名为 `2020-10-26-ZLK1-Fig-1.png`，以此类推。并把这些文件上传到 `Supporting_Information` 文件夹下。
 - 读书报告：读书报告需要用 `markdown` 格式书写，每篇论文对应一个 `.md` 文档。每个文档以如下格式 `2020-10-26-ZLK1.md` 命名，并上传到以你名字命名的文件夹中。有关 `markdown` 文档格式的更多信息，请参看：[https://commonmark.org](https://commonmark.org)。
 
-- 下面是 `_introduction` 文件夹目前的结构：
+- 下面是 `_introduction` 文件夹目前的结构 (注：该文件夹下文件的命名格式没有遵循上述标准，但文件夹结构与上述描述是一致的。）
+)：
 
 ```bash
 _introduction
@@ -50,8 +51,6 @@ _introduction
 ├── _index.md
 └── read-tips.md
 ```
-
-- 注意：`_introduction` 文件夹下，除去帖子 `read-tips.md` 的命名格式没有遵循上述标准，其他方面均是按上述标准确定的。
 
 ### 6. 撰写读书报告
 
