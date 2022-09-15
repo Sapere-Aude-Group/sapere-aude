@@ -40,7 +40,6 @@ showTOC: true
 - 读书报告：读书报告需要用 `markdown` 格式书写，每篇论文对应一个 `.md` 文档。每个文档以如下格式 `2020-10-26-ZLK1.md` 命名，并上传到以你名字命名的文件夹中。有关 `markdown` 文档格式的更多信息，请参看：[https://commonmark.org](https://commonmark.org)。
 
 - 下面是 `_introduction` 文件夹目前的结构 (注：该文件夹下文件的命名格式没有遵循上述标准，但文件夹结构与上述描述是一致的。）
-)：
 
 ```bash
 _introduction
