@@ -103,7 +103,7 @@ showTOC: true  #是否在在文章开头添加目录？
 （2）对该领域非常了解的专家：应该能够发现和认识到你研究的闪光点和价值。
 - 应该记住，“如果听众没听明白，一定不听众理解力问题，而是我没有讲清楚。
 
-    > If you can't explain it simply you don't understand it well enough"?
+    > If you can't explain it simply you don't understand it well enough.
     > - [Albert Einstein](https://skeptics.stackexchange.com/questions/8742/did-einstein-say-if-you-cant-explain-it-simply-you-dont-understand-it-well-en)
 
 #### 听
