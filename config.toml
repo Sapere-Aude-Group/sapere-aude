@@ -11,19 +11,23 @@ disablePathToLower = true
 
 [[params.mainMenu]]
     link = "about"
-    text = "寄语"
+    text = "写在前面"
+
+[[params.mainMenu]]
+    link = "_introduction"
+    text = "基本要求"
 
 [[params.mainMenu]]
     link = "read"
-    text = "阅读"
+    text = "读书报告"
 
 [[params.mainMenu]]
     link = "projects"
-    text = "研究"
+    text = "研究项目"
 
 [[params.mainMenu]]
     link = "member"
-    text = "成员"
+    text = "小组成员"
 
 [markup]
   [markup.tableOfContents]
