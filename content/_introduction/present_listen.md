@@ -1,5 +1,5 @@
 ---
-title: 3. 小组讨论
+title: 3.小组讨论
 author: 战立侃
 showTOC: true
 ---

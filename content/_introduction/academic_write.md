@@ -1,7 +1,7 @@
 ---
-title: 4. 学术写作
+title: 4.学术写作
 author: 战立侃
-showTOC: true
+showTOC: false
 ---
 
 请参考下面的书：

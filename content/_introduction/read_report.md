@@ -1,5 +1,5 @@
 ---
-title:  2. 读书报告
+title:  2.读书报告
 showTOC: true
 ---
 
