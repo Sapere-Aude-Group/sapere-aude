@@ -23,7 +23,7 @@ disablePathToLower = true
 
 [[params.mainMenu]]
     link = "projects"
-    text = "研究项目"
+    text = "研究课题"
 
 [[params.mainMenu]]
     link = "member"
