@@ -1,0 +1,276 @@
+---
+title:  1.研究项目
+showTOC: true
+---
+
+研究项目如何确定？
+
+下面是学术杂志《Cognition》提供的一系列潜在研究领域，供参考：
+
+Abduction
+Action
+Action Awareness
+action observation and prediction
+Action representations
+Action Selection
+action understanding
+Action-Effect Anticipation
+Aesthetics
+agency
+aging
+animal cognition
+aphasia
+Attention
+attention and action
+Bayesian modeling
+Behavioral Economics
+bilingual acquisition
+bilingualism
+Body Representation
+body schema
+Body-ownership
+calculation
+Categories and concepts
+categorization
+causal cognition
+causal reasoning
+causation
+child language development
+Choice prediction competitions
+Cognition
+cognition and action
+Cognitive control
+cognitive development
+Cognitive evolution
+Cognitive neuroscience
+cognitive neuroscience of language
+cognitive science of science
+Comparative cognition
+comparative psychology
+compositionality
+Comprehension
+computational models
+Concepts
+Concepts and Categories
+concepts of individual objects and substances
+conceptual combination
+conceptual development
+Conceptual representation
+Conflict Monitoring
+connectionist models
+consciousness
+Consumer Behaviour
+control
+creativity
+crosslinguistic phonology
+cultural learning
+culture
+culture and cognition
+deception
+Decision Making
+Decisions from experience
+Decisions under uncertainty
+Deductive reasoning
+deontological
+development of numerical abilities
+developmental cognitive neuroscience
+Developmental cognitive science
+developmental psycholinguistics
+diagnosis of neuro-psychological deficits after brain lesion
+dialogue
+discourse
+division of cognitive labor
+dog cognition
+Dogs
+dual-process
+dyscalculia
+early childhood
+early word learning/lexical acquisition
+EEG/ERP
+effects of early experience
+embodied cognition
+Emotion
+episodic memory
+ERPs
+Error Monitoring
+ethics
+Event and temporal cognition
+event cognition
+event models
+executive control
+executive function
+Experimental philosophy
+explanation
+explanation and understanding
+eye tracking
+Face perception
+fMRI
+folk epistemology
+folk scientific thought
+Free will
+functional brain imaging
+Functional Neuroimaging
+Game theory
+gaze
+Gender
+Gention and language production
+High-level vision
+Human Memory
+hypothesis space searching
+Ideomotor Coding
+Individual concepts
+induction
+Infancy
+infant cognition
+Infant language learning
+infant speech perception
+Inferential reasoning
+Intention
+Intentional action
+Intentional Binding
+Intentionality
+Interoception
+interpersonal coordination
+intuitive theories
+joint action
+Judgement
+Judgement and Decision Making
+Judgment
+knowledge representation
+Language
+language acquisition
+language and cognition
+language and thought
+language comprehension
+language development
+language evolution
+language of thought
+language processing
+Language production
+language production and comprehension
+learning
+learning process
+lexical semantics
+Logic
+logical form
+long-term memory
+mathematical cognition
+Mathematics cognition
+memory
+Mental lexicon
+mental models
+Mental State Representation
+Mentalizing
+Metacognition
+Mind perception
+mindreading
+Monkeys
+Moral cognition
+moral dilemmas
+Moral judgement
+Moral Psychology
+Morality
+motor cognition
+motor planning
+Multi-sensory perception
+Multisensory integration
+music perception
+navigation
+NIRS
+non-symbolic and symbolic number processing
+non-verbal communication
+number
+number representations
+numerical cognition
+object identification
+Object Perception
+orthographic production
+Pain
+parsing
+path integration
+Perception and action
+Perceptual Organisation
+Peripersonal space
+Personal identity
+perspective taking
+Philosophy
+Philosophy and psychology
+Philosophy of cognition
+phonotactic learning
+physical reasoning
+Policy Applications
+Pragmatic processing
+Pragmatics
+prediction error
+Prejudice
+primate behaviour
+primate cognition
+Probability
+Problem-solving
+Proprioception
+prosocial behavior
+prospective member
+psycholinguistics
+psychological reasoning
+Race
+reading, eye-tracking
+reasoning
+recognition memory
+reference
+rehabilitation
+Reinforcement learning
+Selective AGention
+Self
+Self / other distinction
+Self processing
+Self representation
+self-control
+semantic encoding
+semantic memory
+semantic priming
+Semantic processing
+Semantics
+Sense of agency
+Sense of body ownership
+Sensorimotor integration
+sensorimotor interference
+Sensory Attenuation
+sentence production
+situation models
+Social Attention
+Social Categories
+social cognition
+Social Groups
+social interaction
+Social neuroscience
+Social Status
+sociomoral reasoning
+Somatosensory
+Space Perception
+Spatial Attention
+Spatial cognition
+spatial memory
+speaking
+speech
+speech errors
+speech learning in first and second language
+Speech perception
+speech planning
+spoken word recognition
+statistical learning
+Stereotyping
+syntactic bootstrapping
+syntax
+Theory of Mind
+Thinking
+thinking and reasoning
+Touch
+Uncanny Valley
+understanding fiction
+updating
+utilitarian
+vagueness
+Visual Perception
+word learning
+word meaning
+word production

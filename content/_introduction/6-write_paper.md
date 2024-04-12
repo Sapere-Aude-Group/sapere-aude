@@ -1,5 +1,5 @@
 ---
-title: 5.学术写作
+title: 6.学术写作
 author: 战立侃
 showTOC: false
 ---
