@@ -4,6 +4,8 @@ author: 战立侃
 showTOC: true
 ---
 
+学术写作是一项技能。与其他任何技能一样，学术写作技能的提高是需要持续练习的。
+
 # 十三点学术写作建议 (Steven Pinker)
 
 1. **Reverse-engineer what you read**. If it feels like good writing, what makes it good? If it’s awful, why? 
@@ -20,7 +22,7 @@ showTOC: true
 12. **Read it aloud**.
 13. **Find the best word, which is not always the fanciest word**. Consult a dictionary with usage notes, and a thesaurus.
 
-# 十三点建议的中文译文
+<!-- # 十三点建议的中文译文
 
 1. **逆向思考读到的内容**。如果感觉写得很好，是什么使它优秀？如果很糟糕，为什么呢？
 2. **写作是一扇通向世界的窗户**。通过使用视觉、具体的语言，让你的读者看到你所看到的东西。
@@ -34,7 +36,7 @@ showTOC: true
 10. **写作必须连贯**：读者必须知道每个句子与前面的句子是如何相关的。如果不明显，使用“也就是说，例如，一般来说，另一方面，尽管如此，因此，因为，尽管如此”，或者“尽管如此”。
 11. **反复修改，唯一目标是改善写作方式**。
 12. **出声读出来**。
-13. **找到最好的词语，这并不总是最华丽的词语**。查阅带有用法注释和同义词词典。
+13. **找到最好的词语，这并不总是最华丽的词语**。查阅带有用法注释和同义词词典。 -->
 
 # 参考书
 
